@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "tangerine.firebase",
+        "sha256_cert_fingerprints": [
+          "77:4D:A3:14:3B:17:3F:75:3A:AB:7E:01:1D:15:A3:06:20:13:86:77:7E:C1:F9:4C:70:F1:BF:9C:6A:B0:D8:CA"
+        ]
+      }
+    }
+  ]
